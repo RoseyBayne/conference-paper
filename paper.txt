@@ -1,4 +1,5 @@
-Bioinformatics for Nobel Prize
+Savvas Kourtis
+Bioinformatics for Nobel Prize 2024 
 #Abstract
 #Research question
 #Raw data and analysis software
