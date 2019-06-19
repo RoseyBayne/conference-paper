@@ -1,4 +1,4 @@
-Our submission to Bioinformatics 2019
+Bioinformatics for Nobel Prize
 #Abstract
 #Research question
 #Raw data and analysis software
