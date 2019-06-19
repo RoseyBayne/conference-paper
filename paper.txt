@@ -1,4 +1,3 @@
-
 Our submission to Bioinformatics 2019
 #Abstract
 #Research question
@@ -6,4 +5,5 @@ Our submission to Bioinformatics 2019
 #Runs done
 #Results
 #Further work
-
+#References
+#Appendices
